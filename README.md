@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
@@ -90,5 +90,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barabasrobert&show_icons=true&locale=en&layout=compact" alt="barabasrobert" /></p>
